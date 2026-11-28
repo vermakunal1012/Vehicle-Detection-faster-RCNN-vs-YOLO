@@ -75,7 +75,7 @@ Currently In Development.
 
 ## 👨‍🎓 Author
 
-Kunal Verma
+Kunal Raj Verma
 
 MCA 3rd Semester
 
